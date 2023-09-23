@@ -108,5 +108,4 @@ Currently honing my skills in Python programming for data analysis, visualizatio
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
