@@ -21,7 +21,7 @@
 
 
 ### Glad to see you here!  
-🐍 Aspiring Data Scientist | Python Enthusiast | Eager to Explore the Depths of Data 📊
+🐍 Aspiring Python Enthusiast | Data Scientist | Eager to Explore the Depths of Data 📊
 
 Currently honing my skills in Python programming for data analysis, visualization, and machine learning. Passionate about transforming raw data into actionable insights and building intelligent systems. Excited to dive into the world of data science and leverage Python's versatility to solve complex problems. Constantly seeking opportunities to learn and grow in this dynamic field. Let's connect and collaborate on all things data-driven! 🚀 #DataScience #Python #MachineLearning"  
   
