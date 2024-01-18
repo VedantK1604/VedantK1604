@@ -1,4 +1,4 @@
-## I'm Vedant Khapekar, a Python developer 👨‍💻 working remotely since 2022 🚀  
+## I'm Vedant Khapekar, a Machine Learning Enthusiasts 👨‍💻 working remotely since 2022 🚀  
   
 
 <a href="https://github.com/VedantK1604" target="_blank">
